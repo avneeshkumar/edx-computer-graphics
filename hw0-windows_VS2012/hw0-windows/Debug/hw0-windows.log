@@ -1,0 +1,4 @@
+﻿  mytest3.cpp
+c:\users\avneesh\documents\edxgraphics\hw0-windows_vs2012\hw0-windows\mytest3.cpp(121): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+  hw0-windows.vcxproj -> C:\Users\avneesh\Documents\edxGraphics\hw0-windows_VS2012\Debug\hw0-windows.exe
+  hw0-windows.vcxproj -> C:\Users\avneesh\Documents\edxGraphics\hw0-windows_VS2012\Debug\hw0-windows.pdb (Full PDB)
